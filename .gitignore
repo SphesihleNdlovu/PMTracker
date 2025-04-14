@@ -1,5 +1,1 @@
-bin/
-obj/
-*.sphesihle.ndlovu
-*.suo
-.vs/
+"bin/\nobj/\n*.SphesihleNdlovu\n*.suo\n.vs/" 
