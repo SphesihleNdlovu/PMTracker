@@ -1,1 +1,1 @@
-"bin/\nobj/\n*.SphesihleNdlovu\n*.suo\n.vs/" 
+-e "bin/\nobj/\n*.suo\n*.SphesihleNdlovu\n.vs/\npackages/" 
